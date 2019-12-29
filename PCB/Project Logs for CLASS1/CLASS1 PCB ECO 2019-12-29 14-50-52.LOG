@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=D2 Old Footprint=3.5X2.8X1.9 New Footprint=6-0805
+Change Component Footprint: Designator=D3 Old Footprint=3.5X2.8X1.9 New Footprint=C0805
+Change Component Designator: OldDesignator=WiFi NewDesignator=P4
+Added Room: Name=CLASS1

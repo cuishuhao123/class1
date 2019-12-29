@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : C:\Users\cl670\Documents\GitHub\class1\PCB\CLASS1.PcbDoc
+Date         : 2019/12/29
+Time         : 20:55:58
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 100
+    Connections routed, 100
+    Connections remaing, 0
+count : 4

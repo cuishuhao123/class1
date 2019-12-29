@@ -1,0 +1,62 @@
+Export log for : CLAS1.Rep
+AddingPadStyle (Default)
+AddingPadStyle P:EX197Y197D1971
+AddingPadStyle P:SX59Y59D351
+AddingPadStyle P:EX59Y59D351
+AddingPadStyle EF59X51TOP1
+AddingPadStyle P:SX49Y49D301
+AddingPadStyle P:EX49Y49D301
+AddingPadStyle EF59X102TOP1
+AddingPadStyle P:EX79Y39D351
+AddingPadStyle P:EX79Y39D352
+AddingPadStyle EF39X43TOP1
+AddingPadStyle P:EX73Y73D431
+AddingPadStyle P:SX73Y73D431
+AddingPadStyle EF37X57TOP1
+AddingPadStyle EF130X57TOP1
+AddingPadStyle EF24X71TOP1
+AddingPadStyle EF14X67TOP1
+AddingPadStyle P:EX51Y51D281
+Adding ViaStyle (Default)
+Adding TextStyle (Default)
+Adding TextStyle T:H60W10
+Adding TextStyle T:H59W6
+Adding TextStyle T:H50W8
+Adding TextStyle T:H59W61
+Adding TextStyle T:H45W6
+Adding TextStyle T:H157W10
+Adding PatternDef BAT-2_1
+Adding PatternDef C0805_1
+Adding PatternDef A_1
+Adding PatternDef 3.5X2.8X1.9_1
+Adding PatternDef PIN2_1
+Adding PatternDef HDR1X9_1
+Adding PatternDef HDR1X6_1
+Adding PatternDef HDR1X4_1
+Adding PatternDef HDR2X3_1
+Adding PatternDef TO-92A_1
+Adding PatternDef J1-0603_1
+Adding PatternDef SPST-2_1
+Adding PatternDef AMS1117-3V3_1
+Adding PatternDef X9C104_1
+Adding PatternDef STM32F103_1
+Adding PatternDef R38_1
+Adding CompDef BAT-2_1
+Adding CompDef C0805_1
+Adding CompDef A_1
+Adding CompDef 3.5X2.8X1.9_1
+Adding CompDef PIN2_1
+Adding CompDef HDR1X9_1
+Adding CompDef HDR1X6_1
+Adding CompDef HDR1X4_1
+Adding CompDef HDR2X3_1
+Adding CompDef TO-92A_1
+Adding CompDef J1-0603_1
+Adding CompDef SPST-2_1
+Adding CompDef AMS1117-3V3_1
+Adding CompDef X9C104_1
+Adding CompDef STM32F103_1
+Adding CompDef R38_1
+      Warning: Unexpected Free Text Object Found On Layer BottomOverlay.   This may cause problems in PCAD PCB
+ 
+EndLog
